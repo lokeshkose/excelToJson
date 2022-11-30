@@ -19,7 +19,6 @@ const covertdataJson = (x) => {
         //     //     B: 'ProductName'
         //     // }
         // }]
-        //demo
     })
     const arrayData = javaObj.Sheet1
     const jsonData = JSON.stringify(arrayData)
